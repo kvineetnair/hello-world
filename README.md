@@ -38,10 +38,16 @@ Just trying out Github
 [Search-outside](https://www.google.co.in/)
 
 ## This is a table
-|**Header1**|Header2  | Header3|
---- | --- | ---||**r1 c1**|r1 c2|r1 c3|
-|**r2 c1**|r2 c2|r2 c3|
-|**r3 c1**|r3 c2|r3 c3|
+| **Header1** | Header2  | Header3 |
+
+| --- | --- | --- |
+
+| **r1 c1** | r1 c2 | r1 c3 |
+
+| **r2 c1** | r2 c2 | r2 c3 | 
+
+| **r3 c1** | r3 c2 | r3 c3 |
+
 
 ## Just trying out Github
 *This is my first file*
