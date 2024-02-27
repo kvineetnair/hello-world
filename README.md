@@ -40,7 +40,7 @@ Just trying out Github
 ## This is a table
 | **Header1** | Header2  | Header3 |
 
-| --- | --- | --- |
+|  --- | --- | --- |
 
 | **r1 c1** | r1 c2 | r1 c3 |
 
