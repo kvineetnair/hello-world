@@ -1,5 +1,6 @@
-<<<<<<< Updated upstream
+
 # hello-world
+
 Just trying out Github
 
 ## Nice and nifty software for distributed version control!
@@ -42,6 +43,11 @@ Just trying out Github
 |**r2 c1**|r2 c2|r2 c3|
 |**r3 c1**|r3 c2|r3 c3|
 
-~ ~
->>>>>>> Stashed changes
+## Just trying out Github
+*This is my first file*
+- Nice and nifty software for distributed version control!
+- Cool and easy!
+~ THIS IS A CODE
+IT IS A SNIPPET ~
+
 Thanks for creating and documenting Github... :)
